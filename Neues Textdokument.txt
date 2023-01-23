@@ -1,0 +1,9 @@
+Part 1: Finished
+
+Part 2: 2:12:06
+
+/Desktop/Learning_Blockchain/tikitaka
+npm run dev
+
+Desktop/Learning_Blockchain/tikitaka/tikitakabackend
+sanity start
