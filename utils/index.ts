@@ -3,6 +3,7 @@ import jwt_decode from "jwt-decode";
 
 // export const BASE_URL = "http://localhost:3000";
 export const BASE_URL = "https://tikitaka.onrender.com";
+// export const BASE_URL = "https://tiki-taka.onrender.com";
 
 export const createOrGetUser = async (response: any, addUser: any) => {
   const decoded: { name: string; picture: string; sub: string } = jwt_decode(
